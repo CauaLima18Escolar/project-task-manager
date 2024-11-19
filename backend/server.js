@@ -1,11 +1,14 @@
-const express = require('express')
-const app = express()
+// Importando o Dotenv
+import dotenv from "dotenv";
+import app from "./src/app.js";
 
-app.get('/hello', (req, res) => {
-    res.send('Hello, World!')
-});
+// Importando o Express
+import express from "express";
 
-const PORT = process.env.PORT || 3000
+dotenv.config();
+
+// TCP
+const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
     console.log('Servidor iniciado.')
