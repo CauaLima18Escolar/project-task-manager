@@ -1,4 +1,4 @@
-//Importando o Express
+//Importando o App
 import dotenv from "dotenv";
 import app from "./src/app.js";
 

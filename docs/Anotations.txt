@@ -1,0 +1,6 @@
+Tecnologias comumente utilizadas para manipular MySQL
+
+- MySQL Workbench
+- Dbeaver
+
+Quando trabalhamos com data e hora juntos, chamamos isso de "Timestamp"

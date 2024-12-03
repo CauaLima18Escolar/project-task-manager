@@ -1,10 +1,3 @@
-create table projeto (
-   	id int AUTO_INCREMENT PRIMARY KEY,
-    nome varchar(300) not null
-);
-
-
-
 -- Exemplos de adição de registros
 INSERT INTO projeto (nome) VALUES ('XXX');
 
