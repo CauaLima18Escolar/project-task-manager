@@ -1,6 +1,6 @@
 # TASK MANAGER (BACKEND) - PROJECT 👨🏻‍💻
 
-Projeto desenvolvido em sala de aula com auxílio do professor João Nascimento para fins de aprendizado e aplicação dos conteúdos abordados em sala de aula.
+Projeto desenvolvido em sala de aula com auxílio do professor João Nascimento para fins de aprendizado e aplicação dos conteúdos abordados em sala.
 
 ## Seguem as anotações (Backend): 👻
 
