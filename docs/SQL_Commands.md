@@ -1,9 +1,12 @@
 # Exemplos de alguns comandos básicos em mySQL
 
-## Adição de registros:
+## Adicionar registros:
 ```sql
--- Exemplos de adição de registros
+-- Inserir um único registro:
 INSERT INTO projeto (nome) VALUES ('XXX');
+
+-- Inserir multiplos registros de uma vez:
+INSERT INTO projeto (nome) VALUES ('XXX'), ('YYY'), ('ZZZ')
 ```
 
 ## Consultas:
