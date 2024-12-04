@@ -10,9 +10,4 @@ const PORT = process.env.PORT || 3000;
 //Inicialização de um servidor WEB
 app.listen(PORT, () => {
     console.log("Servidor inicializado");
-})
-
-
-
-
-
+});

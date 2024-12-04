@@ -1,6 +1,6 @@
 import mysql from 'mysql2';
 
-// Objet oque contém as configuracões de conexão com o banco MySQL
+// Objeto que contém as configuracões de conexão com o banco MySQL
 const dbConfig = {
     host: 'localhost',
     user: 'root',
