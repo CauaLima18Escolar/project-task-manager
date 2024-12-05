@@ -4,5 +4,9 @@ Projeto desenvolvido em sala de aula com auxílio do professor João Nascimento 
 
 ## Seguem as anotações (Backend): 👻
 
+**MySQL:**
+
 - [Comandos básicos](./docs/SQL_Commands.md)
 - [Modelos utilizados nas tabelas](./docs/SQL_Models.md)
+
+**Arquitetura do Projeto (organização interna):**

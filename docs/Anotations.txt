@@ -5,7 +5,7 @@ Tecnologias comumente utilizadas para manipular MySQL
 
 Quando trabalhamos com data e hora juntos, chamamos isso de "Timestamp"
 
-
+Github COPILLOT --> Ferramenta de automação
 
 Sobre a organização do projeto:
 
@@ -13,4 +13,8 @@ Sobre a organização do projeto:
 
 - Models --> Usada para armazenar modelos de dados. Sua principal função é definir a estrutura desses dados e, frequentemente, como esses dados se relacionam entre si, além de facilitar a interação com o banco de dados.
 
---Repositories --> É responsável por encapsular a lógica de acesso aos dados, ou seja, ela é responsável por fornecer uma interface de fácil uso para acessar e manipular os dados, como buscar, adicionar, atualizar e excluir registros.
+- Repositories --> É responsável por encapsular a lógica de acesso aos dados, ou seja, ela é responsável por fornecer uma interface de fácil uso para acessar e manipular os dados, como buscar, adicionar, atualizar e excluir registros.
+
+- Controllers -->
+
+- Routers -->
