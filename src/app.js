@@ -1,5 +1,4 @@
 import express from "express";
-import connection from "./config/dbConnect.js";
 
 //Criar o objeto express
 const app = express();
