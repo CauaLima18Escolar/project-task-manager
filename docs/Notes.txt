@@ -3,6 +3,11 @@ Tecnologias comumente utilizadas para manipular MySQL
 - MySQL Workbench
 - Dbeaver
 
+Ferramentas de auxílio (Pesquisar pra entender)
+
+- Dotenv
+- Nodemon
+
 Quando trabalhamos com data e hora juntos, chamamos isso de "Timestamp"
 
 Github COPILLOT --> Ferramenta de automação
