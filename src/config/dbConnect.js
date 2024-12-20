@@ -1,5 +1,5 @@
 import mysql from 'mysql2';
-import util from "util";
+import util from "util"
 
 // Objeto que contém as configuracões de conexão com o banco MySQL
 const dbConfig = {
