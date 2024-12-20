@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-size: 1rem; /* Define o tamanho da fonte de toda a página */
+  }
+  
+  .nav-link.active {
+    font-weight: bold; /* Peso da fonte do link ativo */
+  }
+  
+  #sidebarMenu {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    height: 100vh; /* 100% da altura da janela */
+    overflow-y: auto; /* Permite rolagem no menu, se necessário */
+  }
